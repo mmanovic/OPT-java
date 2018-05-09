@@ -1,0 +1,24 @@
+IfFoodAheadNode
+ Prog2Node
+  Prog3Node
+   Move
+   Move
+   Move
+  Left
+ Prog2Node
+  Prog2Node
+   Left
+   Left
+  Prog3Node
+   IfFoodAheadNode
+    Prog2Node
+     Prog3Node
+      Move
+      Move
+      Right
+     Prog2Node
+      Left
+      Move
+    Left
+   Move
+   Left

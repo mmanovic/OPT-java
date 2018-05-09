@@ -1,0 +1,3 @@
+Za n=10 i n=100 algoritam brzo konvergira tj. brzo se izvuèe iz platoa (potrebno je svega tridesetak iteracija za n=100) stoga tu nisam ništa posebno mogao zakljuèiti.
+
+Za n=1000 algoritam mi zapinje na platou tj. ne mogu se maknuti od fitnessa 0.8. Promatrajuæi potreban broj iteracija do fitnessa 0.8 za n=1000 može se primijetiti da veæa turnirska selekcija daje bolje rezultate tj. brže stigne do platoa. Takoðer odabir oba roditelja s turnirskom selekcijom mi brže konvergira prema platou nego situacija gdje drugog roditelja biramo sluèajno.

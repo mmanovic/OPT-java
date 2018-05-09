@@ -12,3 +12,4 @@ FER "Solving Optimization Problems Using Evolutionary Computation Algorithms in 
 - HW09 NSGA
 - HW10 NSGA-II
 - HW11 Parallelization (GA)
+- HW12 Genetic Programming

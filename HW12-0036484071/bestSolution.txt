@@ -1,0 +1,17 @@
+Prog2Node
+ Prog2Node
+  Prog2Node
+   IfFoodAheadNode
+    Prog2Node
+     IfFoodAheadNode
+      Move
+      Move
+     Move
+    Left
+   Left
+  IfFoodAheadNode
+   Move
+   Right
+ Prog2Node
+  Move
+  Right
